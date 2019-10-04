@@ -5,7 +5,8 @@ at any time*/
 /*we use "var" keyword to create a variabe in javascript and we can store any values like string,numbers ,boolean,float,null or 
 we can keep it empty*/
 var number=10;
-var strings=vikas;
+var strings="vikas";
 var boolean=true;
 var empty;
 var keepnull=null;
+console.log(number);
