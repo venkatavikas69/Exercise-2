@@ -1,0 +1,1 @@
+/* this an exercise of declaring variables in javascript*/
