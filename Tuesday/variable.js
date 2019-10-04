@@ -9,4 +9,10 @@ var strings="vikas";
 var boolean=true;
 var empty;
 var keepnull=null;
+/* to check the output values of given variables console.log has been used*/
 console.log(number);
+console.log(strings);
+console.log(boolean);
+console.log(empty);
+console.log(keepnull);
+
